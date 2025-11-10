@@ -1,5 +1,5 @@
 import { Outlet } from "react-router-dom"
-import Students from "./features/students/StudentsTable"
+// import Students from "./features/students/StudentsTable"
 import Navbar from "./components/Navbar"
 
 
